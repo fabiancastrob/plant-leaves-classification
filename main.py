@@ -43,7 +43,7 @@ x_new = [[0.98, 6.02, 0.83, 0.96, 1, 0.29, 0.024, 0.011, 0.03, 0.09, 0.009, 0.00
 #Other tests
 #x_new = [[0.88, 2.3, 0.6, 0.98, 0.99, 0.66, 0.019, 0.048, 0.023, 0.083, 0.007, 0.0013, 0.00027, 0.9]] #Slightly different from the row #20 of the dataset. Expected specie: Salix atrocinera
 #x_new = [[0.46, 1.24, 0.39, 0.86, 1, 0.49, 0.031, 0.15, 0.1, 0.21, 0.04, 0.01, 0.0008, 1.76]] #Slightly different from the row #90 of the dataset. Expected specie: Betula pubescens
-#x_new = [[0.87, 2.3, 0.52, 0.91, 0.99, 0.56, 0.006, 0.003, 0.03, 0.13, 0.015, 0.006, 0.00021, 1.23]] #Almost all attributes similar the row #90 of the dataset, last attribute moderately different. Expected specie: Acca sellowiana
+#x_new = [[0.87, 2.3, 0.52, 0.91, 0.99, 0.56, 0.006, 0.003, 0.03, 0.13, 0.015, 0.006, 0.00021, 1.23]] #Almost all attributes similar the row #291 of the dataset, last attribute moderately different. Expected specie: Acca sellowiana
 
 
 #Run the classification
