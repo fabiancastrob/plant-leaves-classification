@@ -117,6 +117,6 @@ Previously justified. This is the parameter that specifies the number of neighbo
 This is the way that the algorithm measures the distances with the neighbors. After trying to find the optimal, the BrayCurtis metric was choosen. Given the naturalness of the data, better model accuracies were obtained.
 
 ## References
-Dudani, S. A. (1976). The distance-weighted k-nearest-neighbor rule. IEEE Transactions on Systems, Man, and Cybernetics, (4), 325-327.
-Hu, L., Huang, M., Ke, S. et al. The distance function effect on k-nearest neighbor classification for medical datasets.
-Enas, G. G., & Choi, S. C. (1986). Choice of the smoothing parameter and efficiency of k-nearest neighbor classification. In Statistical Methods of Discrimination and Classification (pp. 235-244). Pergamon.
+* Dudani, S. A. (1976). The distance-weighted k-nearest-neighbor rule. IEEE Transactions on Systems, Man, and Cybernetics, (4), 325-327.
+* Hu, L., Huang, M., Ke, S. et al. The distance function effect on k-nearest neighbor classification for medical datasets.
+* Enas, G. G., & Choi, S. C. (1986). Choice of the smoothing parameter and efficiency of k-nearest neighbor classification. In Statistical Methods of Discrimination and Classification (pp. 235-244). Pergamon.
